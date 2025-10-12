@@ -1,0 +1,365 @@
+Hardware,Category,Workload,Location,Cost (₹),Performance,Renewable %,Power (W)
+NVIDIA A100,GPU,AI/ML Training,Rajasthan,2500000,120,85,400
+NVIDIA A100,GPU,AI/ML Training,Gujarat,2500000,120,85,400
+NVIDIA A100,GPU,AI/ML Training,Telangana,2500000,120,85,400
+NVIDIA A100,GPU,AI/ML Training,Andhra Pradesh,2500000,120,85,400
+NVIDIA A100,GPU,AI/ML Training,Madhya Pradesh,2500000,120,85,400
+NVIDIA A100,GPU,AI/ML Training,Tamil Nadu,2500000,120,80,400
+NVIDIA A100,GPU,AI/ML Training,Karnataka,2500000,120,80,400
+NVIDIA A100,GPU,AI/ML Training,Maharashtra,2500000,120,80,400
+NVIDIA A100,GPU,AI/ML Training,Himachal Pradesh,2500000,120,82,400
+NVIDIA A100,GPU,AI/ML Training,Uttarakhand,2500000,120,82,400
+NVIDIA A100,GPU,AI/ML Training,Sikkim,2500000,120,82,400
+NVIDIA A100,GPU,AI/ML Training,Arunachal Pradesh,2500000,120,82,400
+NVIDIA A100,GPU,AI/ML Training,Kerala,2500000,120,76,400
+NVIDIA A100,GPU,AI/ML Training,West Bengal,2500000,120,76,400
+NVIDIA A100,GPU,AI/ML Training,Odisha,2500000,120,76,400
+NVIDIA A100,GPU,AI/ML Training,Delhi,2500000,120,68,400
+NVIDIA A100,GPU,AI/ML Training,Bihar,2500000,120,68,400
+NVIDIA A100,GPU,AI/ML Training,Jharkhand,2500000,120,68,400
+NVIDIA A100,GPU,AI/ML Training,Punjab,2500000,120,68,400
+NVIDIA A100,GPU,AI/ML Training,Haryana,2500000,120,68,400
+NVIDIA A100,GPU,AI/ML Training,Chhattisgarh,2500000,120,68,400
+NVIDIA A100,GPU,AI/ML Training,Assam,2500000,120,68,400
+NVIDIA A100,GPU,AI/ML Training,Nagaland,2500000,120,68,400
+NVIDIA A100,GPU,AI/ML Training,Manipur,2500000,120,68,400
+NVIDIA A100,GPU,AI/ML Training,Meghalaya,2500000,120,68,400
+NVIDIA A100,GPU,AI/ML Training,Mizoram,2500000,120,68,400
+NVIDIA A100,GPU,AI/ML Training,Tripura,2500000,120,68,400
+NVIDIA A100,GPU,AI/ML Training,Goa,2500000,120,68,400
+NVIDIA H100,GPU,AI/ML Training,Rajasthan,3000000,150,85,450
+NVIDIA H100,GPU,AI/ML Training,Gujarat,3000000,150,85,450
+NVIDIA H100,GPU,AI/ML Training,Telangana,3000000,150,85,450
+NVIDIA H100,GPU,AI/ML Training,Andhra Pradesh,3000000,150,85,450
+NVIDIA H100,GPU,AI/ML Training,Madhya Pradesh,3000000,150,85,450
+NVIDIA H100,GPU,AI/ML Training,Tamil Nadu,3000000,150,80,450
+NVIDIA H100,GPU,AI/ML Training,Karnataka,3000000,150,80,450
+NVIDIA H100,GPU,AI/ML Training,Maharashtra,3000000,150,80,450
+NVIDIA H100,GPU,AI/ML Training,Himachal Pradesh,3000000,150,82,450
+NVIDIA H100,GPU,AI/ML Training,Uttarakhand,3000000,150,82,450
+NVIDIA H100,GPU,AI/ML Training,Sikkim,3000000,150,82,450
+NVIDIA H100,GPU,AI/ML Training,Arunachal Pradesh,3000000,150,82,450
+NVIDIA H100,GPU,AI/ML Training,Kerala,3000000,150,76,450
+NVIDIA H100,GPU,AI/ML Training,West Bengal,3000000,150,76,450
+NVIDIA H100,GPU,AI/ML Training,Odisha,3000000,150,76,450
+NVIDIA H100,GPU,AI/ML Training,Delhi,3000000,150,68,450
+NVIDIA H100,GPU,AI/ML Training,Bihar,3000000,150,68,450
+NVIDIA H100,GPU,AI/ML Training,Jharkhand,3000000,150,68,450
+NVIDIA H100,GPU,AI/ML Training,Punjab,3000000,150,68,450
+NVIDIA H100,GPU,AI/ML Training,Haryana,3000000,150,68,450
+NVIDIA H100,GPU,AI/ML Training,Chhattisgarh,3000000,150,68,450
+NVIDIA H100,GPU,AI/ML Training,Assam,3000000,150,68,450
+NVIDIA H100,GPU,AI/ML Training,Nagaland,3000000,150,68,450
+NVIDIA H100,GPU,AI/ML Training,Manipur,3000000,150,68,450
+NVIDIA H100,GPU,AI/ML Training,Meghalaya,3000000,150,68,450
+NVIDIA H100,GPU,AI/ML Training,Mizoram,3000000,150,68,450
+NVIDIA H100,GPU,AI/ML Training,Tripura,3000000,150,68,450
+NVIDIA H100,GPU,AI/ML Training,Goa,3000000,150,68,450
+Google TPU v4,TPU,AI/ML Training,Rajasthan,2800000,140,85,420
+Google TPU v4,TPU,AI/ML Training,Gujarat,2800000,140,85,420
+Google TPU v4,TPU,AI/ML Training,Telangana,2800000,140,85,420
+Google TPU v4,TPU,AI/ML Training,Andhra Pradesh,2800000,140,85,420
+Google TPU v4,TPU,AI/ML Training,Madhya Pradesh,2800000,140,85,420
+Google TPU v4,TPU,AI/ML Training,Tamil Nadu,2800000,140,80,420
+Google TPU v4,TPU,AI/ML Training,Karnataka,2800000,140,80,420
+Google TPU v4,TPU,AI/ML Training,Maharashtra,2800000,140,80,420
+Google TPU v4,TPU,AI/ML Training,Himachal Pradesh,2800000,140,82,420
+Google TPU v4,TPU,AI/ML Training,Uttarakhand,2800000,140,82,420
+Google TPU v4,TPU,AI/ML Training,Sikkim,2800000,140,82,420
+Google TPU v4,TPU,AI/ML Training,Arunachal Pradesh,2800000,140,82,420
+Google TPU v4,TPU,AI/ML Training,Kerala,2800000,140,76,420
+Google TPU v4,TPU,AI/ML Training,West Bengal,2800000,140,76,420
+Google TPU v4,TPU,AI/ML Training,Odisha,2800000,140,76,420
+Google TPU v4,TPU,AI/ML Training,Delhi,2800000,140,68,420
+Google TPU v4,TPU,AI/ML Training,Bihar,2800000,140,68,420
+Google TPU v4,TPU,AI/ML Training,Jharkhand,2800000,140,68,420
+Google TPU v4,TPU,AI/ML Training,Punjab,2800000,140,68,420
+Google TPU v4,TPU,AI/ML Training,Haryana,2800000,140,68,420
+Google TPU v4,TPU,AI/ML Training,Chhattisgarh,2800000,140,68,420
+Google TPU v4,TPU,AI/ML Training,Assam,2800000,140,68,420
+Google TPU v4,TPU,AI/ML Training,Nagaland,2800000,140,68,420
+Google TPU v4,TPU,AI/ML Training,Manipur,2800000,140,68,420
+Google TPU v4,TPU,AI/ML Training,Meghalaya,2800000,140,68,420
+Google TPU v4,TPU,AI/ML Training,Mizoram,2800000,140,68,420
+Google TPU v4,TPU,AI/ML Training,Tripura,2800000,140,68,420
+Google TPU v4,TPU,AI/ML Training,Goa,2800000,140,68,420
+AMD MI300X,GPU,AI/ML Training,Rajasthan,2600000,130,85,410
+AMD MI300X,GPU,AI/ML Training,Gujarat,2600000,130,85,410
+AMD MI300X,GPU,AI/ML Training,Telangana,2600000,130,85,410
+AMD MI300X,GPU,AI/ML Training,Andhra Pradesh,2600000,130,85,410
+AMD MI300X,GPU,AI/ML Training,Madhya Pradesh,2600000,130,85,410
+AMD MI300X,GPU,AI/ML Training,Tamil Nadu,2600000,130,80,410
+AMD MI300X,GPU,AI/ML Training,Karnataka,2600000,130,80,410
+AMD MI300X,GPU,AI/ML Training,Maharashtra,2600000,130,80,410
+AMD MI300X,GPU,AI/ML Training,Himachal Pradesh,2600000,130,82,410
+AMD MI300X,GPU,AI/ML Training,Uttarakhand,2600000,130,82,410
+AMD MI300X,GPU,AI/ML Training,Sikkim,2600000,130,82,410
+AMD MI300X,GPU,AI/ML Training,Arunachal Pradesh,2600000,130,82,410
+AMD MI300X,GPU,AI/ML Training,Kerala,2600000,130,76,410
+AMD MI300X,GPU,AI/ML Training,West Bengal,2600000,130,76,410
+AMD MI300X,GPU,AI/ML Training,Odisha,2600000,130,76,410
+AMD MI300X,GPU,AI/ML Training,Delhi,2600000,130,68,410
+AMD MI300X,GPU,AI/ML Training,Bihar,2600000,130,68,410
+AMD MI300X,GPU,AI/ML Training,Jharkhand,2600000,130,68,410
+AMD MI300X,GPU,AI/ML Training,Punjab,2600000,130,68,410
+AMD MI300X,GPU,AI/ML Training,Haryana,2600000,130,68,410
+AMD MI300X,GPU,AI/ML Training,Chhattisgarh,2600000,130,68,410
+AMD MI300X,GPU,AI/ML Training,Assam,2600000,130,68,410
+AMD MI300X,GPU,AI/ML Training,Nagaland,2600000,130,68,410
+AMD MI300X,GPU,AI/ML Training,Manipur,2600000,130,68,410
+AMD MI300X,GPU,AI/ML Training,Meghalaya,2600000,130,68,410
+AMD MI300X,GPU,AI/ML Training,Mizoram,2600000,130,68,410
+AMD MI300X,GPU,AI/ML Training,Tripura,2600000,130,68,410
+AMD MI300X,GPU,AI/ML Training,Goa,2600000,130,68,410
+Dell PowerEdge R760,Server,Enterprise Datacenter,Rajasthan,1800000,110,85,500
+Dell PowerEdge R760,Server,Enterprise Datacenter,Gujarat,1800000,110,85,500
+Dell PowerEdge R760,Server,Enterprise Datacenter,Telangana,1800000,110,85,500
+Dell PowerEdge R760,Server,Enterprise Datacenter,Andhra Pradesh,1800000,110,85,500
+Dell PowerEdge R760,Server,Enterprise Datacenter,Madhya Pradesh,1800000,110,85,500
+Dell PowerEdge R760,Server,Enterprise Datacenter,Tamil Nadu,1800000,110,80,500
+Dell PowerEdge R760,Server,Enterprise Datacenter,Karnataka,1800000,110,80,500
+Dell PowerEdge R760,Server,Enterprise Datacenter,Maharashtra,1800000,110,80,500
+Dell PowerEdge R760,Server,Enterprise Datacenter,Himachal Pradesh,1800000,110,82,500
+Dell PowerEdge R760,Server,Enterprise Datacenter,Uttarakhand,1800000,110,82,500
+Dell PowerEdge R760,Server,Enterprise Datacenter,Sikkim,1800000,110,82,500
+Dell PowerEdge R760,Server,Enterprise Datacenter,Arunachal Pradesh,1800000,110,82,500
+Dell PowerEdge R760,Server,Enterprise Datacenter,Kerala,1800000,110,76,500
+Dell PowerEdge R760,Server,Enterprise Datacenter,West Bengal,1800000,110,76,500
+Dell PowerEdge R760,Server,Enterprise Datacenter,Odisha,1800000,110,76,500
+Dell PowerEdge R760,Server,Enterprise Datacenter,Delhi,1800000,110,68,500
+Dell PowerEdge R760,Server,Enterprise Datacenter,Bihar,1800000,110,68,500
+Dell PowerEdge R760,Server,Enterprise Datacenter,Jharkhand,1800000,110,68,500
+Dell PowerEdge R760,Server,Enterprise Datacenter,Punjab,1800000,110,68,500
+Dell PowerEdge R760,Server,Enterprise Datacenter,Haryana,1800000,110,68,500
+Dell PowerEdge R760,Server,Enterprise Datacenter,Chhattisgarh,1800000,110,68,500
+Dell PowerEdge R760,Server,Enterprise Datacenter,Assam,1800000,110,68,500
+Dell PowerEdge R760,Server,Enterprise Datacenter,Nagaland,1800000,110,68,500
+Dell PowerEdge R760,Server,Enterprise Datacenter,Manipur,1800000,110,68,500
+Dell PowerEdge R760,Server,Enterprise Datacenter,Meghalaya,1800000,110,68,500
+Dell PowerEdge R760,Server,Enterprise Datacenter,Mizoram,1800000,110,68,500
+Dell PowerEdge R760,Server,Enterprise Datacenter,Tripura,1800000,110,68,500
+Dell PowerEdge R760,Server,Enterprise Datacenter,Goa,1800000,110,68,500
+HP ProLiant DL380,Server,Enterprise Datacenter,Rajasthan,1900000,115,85,520
+HP ProLiant DL380,Server,Enterprise Datacenter,Gujarat,1900000,115,85,520
+HP ProLiant DL380,Server,Enterprise Datacenter,Telangana,1900000,115,85,520
+HP ProLiant DL380,Server,Enterprise Datacenter,Andhra Pradesh,1900000,115,85,520
+HP ProLiant DL380,Server,Enterprise Datacenter,Madhya Pradesh,1900000,115,85,520
+HP ProLiant DL380,Server,Enterprise Datacenter,Tamil Nadu,1900000,115,80,520
+HP ProLiant DL380,Server,Enterprise Datacenter,Karnataka,1900000,115,80,520
+HP ProLiant DL380,Server,Enterprise Datacenter,Maharashtra,1900000,115,80,520
+HP ProLiant DL380,Server,Enterprise Datacenter,Himachal Pradesh,1900000,115,82,520
+HP ProLiant DL380,Server,Enterprise Datacenter,Uttarakhand,1900000,115,82,520
+HP ProLiant DL380,Server,Enterprise Datacenter,Sikkim,1900000,115,82,520
+HP ProLiant DL380,Server,Enterprise Datacenter,Arunachal Pradesh,1900000,115,82,520
+HP ProLiant DL380,Server,Enterprise Datacenter,Kerala,1900000,115,76,520
+HP ProLiant DL380,Server,Enterprise Datacenter,West Bengal,1900000,115,76,520
+HP ProLiant DL380,Server,Enterprise Datacenter,Odisha,1900000,115,76,520
+HP ProLiant DL380,Server,Enterprise Datacenter,Delhi,1900000,115,68,520
+HP ProLiant DL380,Server,Enterprise Datacenter,Bihar,1900000,115,68,520
+HP ProLiant DL380,Server,Enterprise Datacenter,Jharkhand,1900000,115,68,520
+HP ProLiant DL380,Server,Enterprise Datacenter,Punjab,1900000,115,68,520
+HP ProLiant DL380,Server,Enterprise Datacenter,Haryana,1900000,115,68,520
+HP ProLiant DL380,Server,Enterprise Datacenter,Chhattisgarh,1900000,115,68,520
+HP ProLiant DL380,Server,Enterprise Datacenter,Assam,1900000,115,68,520
+HP ProLiant DL380,Server,Enterprise Datacenter,Nagaland,1900000,115,68,520
+HP ProLiant DL380,Server,Enterprise Datacenter,Manipur,1900000,115,68,520
+HP ProLiant DL380,Server,Enterprise Datacenter,Meghalaya,1900000,115,68,520
+HP ProLiant DL380,Server,Enterprise Datacenter,Mizoram,1900000,115,68,520
+HP ProLiant DL380,Server,Enterprise Datacenter,Tripura,1900000,115,68,520
+HP ProLiant DL380,Server,Enterprise Datacenter,Goa,1900000,115,68,520
+Lenovo ThinkSystem SR650,Server,Enterprise Datacenter,Rajasthan,1750000,108,85,480
+Lenovo ThinkSystem SR650,Server,Enterprise Datacenter,Gujarat,1750000,108,85,480
+Lenovo ThinkSystem SR650,Server,Enterprise Datacenter,Telangana,1750000,108,85,480
+Lenovo ThinkSystem SR650,Server,Enterprise Datacenter,Andhra Pradesh,1750000,108,85,480
+Lenovo ThinkSystem SR650,Server,Enterprise Datacenter,Madhya Pradesh,1750000,108,85,480
+Lenovo ThinkSystem SR650,Server,Enterprise Datacenter,Tamil Nadu,1750000,108,80,480
+Lenovo ThinkSystem SR650,Server,Enterprise Datacenter,Karnataka,1750000,108,80,480
+Lenovo ThinkSystem SR650,Server,Enterprise Datacenter,Maharashtra,1750000,108,80,480
+Lenovo ThinkSystem SR650,Server,Enterprise Datacenter,Himachal Pradesh,1750000,108,82,480
+Lenovo ThinkSystem SR650,Server,Enterprise Datacenter,Uttarakhand,1750000,108,82,480
+Lenovo ThinkSystem SR650,Server,Enterprise Datacenter,Sikkim,1750000,108,82,480
+Lenovo ThinkSystem SR650,Server,Enterprise Datacenter,Arunachal Pradesh,1750000,108,82,480
+Lenovo ThinkSystem SR650,Server,Enterprise Datacenter,Kerala,1750000,108,76,480
+Lenovo ThinkSystem SR650,Server,Enterprise Datacenter,West Bengal,1750000,108,76,480
+Lenovo ThinkSystem SR650,Server,Enterprise Datacenter,Odisha,1750000,108,76,480
+Lenovo ThinkSystem SR650,Server,Enterprise Datacenter,Delhi,1750000,108,68,480
+Lenovo ThinkSystem SR650,Server,Enterprise Datacenter,Bihar,1750000,108,68,480
+Lenovo ThinkSystem SR650,Server,Enterprise Datacenter,Jharkhand,1750000,108,68,480
+Lenovo ThinkSystem SR650,Server,Enterprise Datacenter,Punjab,1750000,108,68,480
+Lenovo ThinkSystem SR650,Server,Enterprise Datacenter,Haryana,1750000,108,68,480
+Lenovo ThinkSystem SR650,Server,Enterprise Datacenter,Chhattisgarh,1750000,108,68,480
+Lenovo ThinkSystem SR650,Server,Enterprise Datacenter,Assam,1750000,108,68,480
+Lenovo ThinkSystem SR650,Server,Enterprise Datacenter,Nagaland,1750000,108,68,480
+Lenovo ThinkSystem SR650,Server,Enterprise Datacenter,Manipur,1750000,108,68,480
+Lenovo ThinkSystem SR650,Server,Enterprise Datacenter,Meghalaya,1750000,108,68,480
+Lenovo ThinkSystem SR650,Server,Enterprise Datacenter,Mizoram,1750000,108,68,480
+Lenovo ThinkSystem SR650,Server,Enterprise Datacenter,Tripura,1750000,108,68,480
+Lenovo ThinkSystem SR650,Server,Enterprise Datacenter,Goa,1750000,108,68,480
+AWS p4d Instance,GPU Cloud,Cloud HPC,Rajasthan,3200000,145,85,850
+AWS p4d Instance,GPU Cloud,Cloud HPC,Gujarat,3200000,145,85,850
+AWS p4d Instance,GPU Cloud,Cloud HPC,Telangana,3200000,145,85,850
+AWS p4d Instance,GPU Cloud,Cloud HPC,Andhra Pradesh,3200000,145,85,850
+AWS p4d Instance,GPU Cloud,Cloud HPC,Madhya Pradesh,3200000,145,85,850
+AWS p4d Instance,GPU Cloud,Cloud HPC,Tamil Nadu,3200000,145,80,850
+AWS p4d Instance,GPU Cloud,Cloud HPC,Karnataka,3200000,145,80,850
+AWS p4d Instance,GPU Cloud,Cloud HPC,Maharashtra,3200000,145,80,850
+AWS p4d Instance,GPU Cloud,Cloud HPC,Himachal Pradesh,3200000,145,82,850
+AWS p4d Instance,GPU Cloud,Cloud HPC,Uttarakhand,3200000,145,82,850
+AWS p4d Instance,GPU Cloud,Cloud HPC,Sikkim,3200000,145,82,850
+AWS p4d Instance,GPU Cloud,Cloud HPC,Arunachal Pradesh,3200000,145,82,850
+AWS p4d Instance,GPU Cloud,Cloud HPC,Kerala,3200000,145,76,850
+AWS p4d Instance,GPU Cloud,Cloud HPC,West Bengal,3200000,145,76,850
+AWS p4d Instance,GPU Cloud,Cloud HPC,Odisha,3200000,145,76,850
+AWS p4d Instance,GPU Cloud,Cloud HPC,Delhi,3200000,145,68,850
+AWS p4d Instance,GPU Cloud,Cloud HPC,Bihar,3200000,145,68,850
+AWS p4d Instance,GPU Cloud,Cloud HPC,Jharkhand,3200000,145,68,850
+AWS p4d Instance,GPU Cloud,Cloud HPC,Punjab,3200000,145,68,850
+AWS p4d Instance,GPU Cloud,Cloud HPC,Haryana,3200000,145,68,850
+AWS p4d Instance,GPU Cloud,Cloud HPC,Chhattisgarh,3200000,145,68,850
+AWS p4d Instance,GPU Cloud,Cloud HPC,Assam,3200000,145,68,850
+AWS p4d Instance,GPU Cloud,Cloud HPC,Nagaland,3200000,145,68,850
+AWS p4d Instance,GPU Cloud,Cloud HPC,Manipur,3200000,145,68,850
+AWS p4d Instance,GPU Cloud,Cloud HPC,Meghalaya,3200000,145,68,850
+AWS p4d Instance,GPU Cloud,Cloud HPC,Mizoram,3200000,145,68,850
+AWS p4d Instance,GPU Cloud,Cloud HPC,Tripura,3200000,145,68,850
+AWS p4d Instance,GPU Cloud,Cloud HPC,Goa,3200000,145,68,850
+Azure NDm A100 v4,GPU Cloud,Cloud HPC,Rajasthan,3300000,150,85,870
+Azure NDm A100 v4,GPU Cloud,Cloud HPC,Gujarat,3300000,150,85,870
+Azure NDm A100 v4,GPU Cloud,Cloud HPC,Telangana,3300000,150,85,870
+Azure NDm A100 v4,GPU Cloud,Cloud HPC,Andhra Pradesh,3300000,150,85,870
+Azure NDm A100 v4,GPU Cloud,Cloud HPC,Madhya Pradesh,3300000,150,85,870
+Azure NDm A100 v4,GPU Cloud,Cloud HPC,Tamil Nadu,3300000,150,80,870
+Azure NDm A100 v4,GPU Cloud,Cloud HPC,Karnataka,3300000,150,80,870
+Azure NDm A100 v4,GPU Cloud,Cloud HPC,Maharashtra,3300000,150,80,870
+Azure NDm A100 v4,GPU Cloud,Cloud HPC,Himachal Pradesh,3300000,150,82,870
+Azure NDm A100 v4,GPU Cloud,Cloud HPC,Uttarakhand,3300000,150,82,870
+Azure NDm A100 v4,GPU Cloud,Cloud HPC,Sikkim,3300000,150,82,870
+Azure NDm A100 v4,GPU Cloud,Cloud HPC,Arunachal Pradesh,3300000,150,82,870
+Azure NDm A100 v4,GPU Cloud,Cloud HPC,Kerala,3300000,150,76,870
+Azure NDm A100 v4,GPU Cloud,Cloud HPC,West Bengal,3300000,150,76,870
+Azure NDm A100 v4,GPU Cloud,Cloud HPC,Odisha,3300000,150,76,870
+Azure NDm A100 v4,GPU Cloud,Cloud HPC,Delhi,3300000,150,68,870
+Azure NDm A100 v4,GPU Cloud,Cloud HPC,Bihar,3300000,150,68,870
+Azure NDm A100 v4,GPU Cloud,Cloud HPC,Jharkhand,3300000,150,68,870
+Azure NDm A100 v4,GPU Cloud,Cloud HPC,Punjab,3300000,150,68,870
+Azure NDm A100 v4,GPU Cloud,Cloud HPC,Haryana,3300000,150,68,870
+Azure NDm A100 v4,GPU Cloud,Cloud HPC,Chhattisgarh,3300000,150,68,870
+Azure NDm A100 v4,GPU Cloud,Cloud HPC,Assam,3300000,150,68,870
+Azure NDm A100 v4,GPU Cloud,Cloud HPC,Nagaland,3300000,150,68,870
+Azure NDm A100 v4,GPU Cloud,Cloud HPC,Manipur,3300000,150,68,870
+Azure NDm A100 v4,GPU Cloud,Cloud HPC,Meghalaya,3300000,150,68,870
+Azure NDm A100 v4,GPU Cloud,Cloud HPC,Mizoram,3300000,150,68,870
+Azure NDm A100 v4,GPU Cloud,Cloud HPC,Tripura,3300000,150,68,870
+Azure NDm A100 v4,GPU Cloud,Cloud HPC,Goa,3300000,150,68,870
+NVIDIA Jetson Orin,Edge AI,Edge AI/IoT,Rajasthan,45000,60,85,30
+NVIDIA Jetson Orin,Edge AI,Edge AI/IoT,Gujarat,45000,60,85,30
+NVIDIA Jetson Orin,Edge AI,Edge AI/IoT,Telangana,45000,60,85,30
+NVIDIA Jetson Orin,Edge AI,Edge AI/IoT,Andhra Pradesh,45000,60,85,30
+NVIDIA Jetson Orin,Edge AI,Edge AI/IoT,Madhya Pradesh,45000,60,85,30
+NVIDIA Jetson Orin,Edge AI,Edge AI/IoT,Tamil Nadu,45000,60,80,30
+NVIDIA Jetson Orin,Edge AI,Edge AI/IoT,Karnataka,45000,60,80,30
+NVIDIA Jetson Orin,Edge AI,Edge AI/IoT,Maharashtra,45000,60,80,30
+NVIDIA Jetson Orin,Edge AI,Edge AI/IoT,Himachal Pradesh,45000,60,82,30
+NVIDIA Jetson Orin,Edge AI,Edge AI/IoT,Uttarakhand,45000,60,82,30
+NVIDIA Jetson Orin,Edge AI,Edge AI/IoT,Sikkim,45000,60,82,30
+NVIDIA Jetson Orin,Edge AI,Edge AI/IoT,Arunachal Pradesh,45000,60,82,30
+NVIDIA Jetson Orin,Edge AI,Edge AI/IoT,Kerala,45000,60,76,30
+NVIDIA Jetson Orin,Edge AI,Edge AI/IoT,West Bengal,45000,60,76,30
+NVIDIA Jetson Orin,Edge AI,Edge AI/IoT,Odisha,45000,60,76,30
+NVIDIA Jetson Orin,Edge AI,Edge AI/IoT,Delhi,45000,60,68,30
+NVIDIA Jetson Orin,Edge AI,Edge AI/IoT,Bihar,45000,60,68,30
+NVIDIA Jetson Orin,Edge AI,Edge AI/IoT,Jharkhand,45000,60,68,30
+NVIDIA Jetson Orin,Edge AI,Edge AI/IoT,Punjab,45000,60,68,30
+NVIDIA Jetson Orin,Edge AI,Edge AI/IoT,Haryana,45000,60,68,30
+NVIDIA Jetson Orin,Edge AI,Edge AI/IoT,Chhattisgarh,45000,60,68,30
+NVIDIA Jetson Orin,Edge AI,Edge AI/IoT,Assam,45000,60,68,30
+NVIDIA Jetson Orin,Edge AI,Edge AI/IoT,Nagaland,45000,60,68,30
+NVIDIA Jetson Orin,Edge AI,Edge AI/IoT,Manipur,45000,60,68,30
+NVIDIA Jetson Orin,Edge AI,Edge AI/IoT,Meghalaya,45000,60,68,30
+NVIDIA Jetson Orin,Edge AI,Edge AI/IoT,Mizoram,45000,60,68,30
+NVIDIA Jetson Orin,Edge AI,Edge AI/IoT,Tripura,45000,60,68,30
+NVIDIA Jetson Orin,Edge AI,Edge AI/IoT,Goa,45000,60,68,30
+Raspberry Pi 5,Edge AI,Edge AI/IoT,Rajasthan,15000,40,85,15
+Raspberry Pi 5,Edge AI,Edge AI/IoT,Gujarat,15000,40,85,15
+Raspberry Pi 5,Edge AI,Edge AI/IoT,Telangana,15000,40,85,15
+Raspberry Pi 5,Edge AI,Edge AI/IoT,Andhra Pradesh,15000,40,85,15
+Raspberry Pi 5,Edge AI,Edge AI/IoT,Madhya Pradesh,15000,40,85,15
+Raspberry Pi 5,Edge AI,Edge AI/IoT,Tamil Nadu,15000,40,80,15
+Raspberry Pi 5,Edge AI,Edge AI/IoT,Karnataka,15000,40,80,15
+Raspberry Pi 5,Edge AI,Edge AI/IoT,Maharashtra,15000,40,80,15
+Raspberry Pi 5,Edge AI,Edge AI/IoT,Himachal Pradesh,15000,40,82,15
+Raspberry Pi 5,Edge AI,Edge AI/IoT,Uttarakhand,15000,40,82,15
+Raspberry Pi 5,Edge AI,Edge AI/IoT,Sikkim,15000,40,82,15
+Raspberry Pi 5,Edge AI,Edge AI/IoT,Arunachal Pradesh,15000,40,82,15
+Raspberry Pi 5,Edge AI,Edge AI/IoT,Kerala,15000,40,76,15
+Raspberry Pi 5,Edge AI,Edge AI/IoT,West Bengal,15000,40,76,15
+Raspberry Pi 5,Edge AI,Edge AI/IoT,Odisha,15000,40,76,15
+Raspberry Pi 5,Edge AI,Edge AI/IoT,Delhi,15000,40,68,15
+Raspberry Pi 5,Edge AI,Edge AI/IoT,Bihar,15000,40,68,15
+Raspberry Pi 5,Edge AI,Edge AI/IoT,Jharkhand,15000,40,68,15
+Raspberry Pi 5,Edge AI,Edge AI/IoT,Punjab,15000,40,68,15
+Raspberry Pi 5,Edge AI,Edge AI/IoT,Haryana,15000,40,68,15
+Raspberry Pi 5,Edge AI,Edge AI/IoT,Chhattisgarh,15000,40,68,15
+Raspberry Pi 5,Edge AI,Edge AI/IoT,Assam,15000,40,68,15
+Raspberry Pi 5,Edge AI,Edge AI/IoT,Nagaland,15000,40,68,15
+Raspberry Pi 5,Edge AI,Edge AI/IoT,Manipur,15000,40,68,15
+Raspberry Pi 5,Edge AI,Edge AI/IoT,Meghalaya,15000,40,68,15
+Raspberry Pi 5,Edge AI,Edge AI/IoT,Mizoram,15000,40,68,15
+Raspberry Pi 5,Edge AI,Edge AI/IoT,Tripura,15000,40,68,15
+Raspberry Pi 5,Edge AI,Edge AI/IoT,Goa,15000,40,68,15
+Seagate Exos 18TB HDD,Storage,Storage Intensive,Rajasthan,175000,33,85,11
+Seagate Exos 18TB HDD,Storage,Storage Intensive,Gujarat,175000,33,85,11
+Seagate Exos 18TB HDD,Storage,Storage Intensive,Telangana,175000,33,85,11
+Seagate Exos 18TB HDD,Storage,Storage Intensive,Andhra Pradesh,175000,33,85,11
+Seagate Exos 18TB HDD,Storage,Storage Intensive,Madhya Pradesh,175000,33,85,11
+Seagate Exos 18TB HDD,Storage,Storage Intensive,Tamil Nadu,175000,33,80,11
+Seagate Exos 18TB HDD,Storage,Storage Intensive,Karnataka,175000,33,80,11
+Seagate Exos 18TB HDD,Storage,Storage Intensive,Maharashtra,175000,33,80,11
+Seagate Exos 18TB HDD,Storage,Storage Intensive,Himachal Pradesh,175000,33,82,11
+Seagate Exos 18TB HDD,Storage,Storage Intensive,Uttarakhand,175000,33,82,11
+Seagate Exos 18TB HDD,Storage,Storage Intensive,Sikkim,175000,33,82,11
+Seagate Exos 18TB HDD,Storage,Storage Intensive,Arunachal Pradesh,175000,33,82,11
+Seagate Exos 18TB HDD,Storage,Storage Intensive,Kerala,175000,33,76,11
+Seagate Exos 18TB HDD,Storage,Storage Intensive,West Bengal,175000,33,76,11
+Seagate Exos 18TB HDD,Storage,Storage Intensive,Odisha,175000,33,76,11
+Seagate Exos 18TB HDD,Storage,Storage Intensive,Delhi,175000,33,68,11
+Seagate Exos 18TB HDD,Storage,Storage Intensive,Bihar,175000,33,68,11
+Seagate Exos 18TB HDD,Storage,Storage Intensive,Jharkhand,175000,33,68,11
+Seagate Exos 18TB HDD,Storage,Storage Intensive,Punjab,175000,33,68,11
+Seagate Exos 18TB HDD,Storage,Storage Intensive,Haryana,175000,33,68,11
+Seagate Exos 18TB HDD,Storage,Storage Intensive,Chhattisgarh,175000,33,68,11
+Seagate Exos 18TB HDD,Storage,Storage Intensive,Assam,175000,33,68,11
+Seagate Exos 18TB HDD,Storage,Storage Intensive,Nagaland,175000,33,68,11
+Seagate Exos 18TB HDD,Storage,Storage Intensive,Manipur,175000,33,68,11
+Seagate Exos 18TB HDD,Storage,Storage Intensive,Meghalaya,175000,33,68,11
+Seagate Exos 18TB HDD,Storage,Storage Intensive,Mizoram,175000,33,68,11
+Seagate Exos 18TB HDD,Storage,Storage Intensive,Tripura,175000,33,68,11
+Seagate Exos 18TB HDD,Storage,Storage Intensive,Goa,175000,33,68,11
+Corsair 128GB DDR5,RAM,Memory Intensive,Rajasthan,120000,50,85,10
+Corsair 128GB DDR5,RAM,Memory Intensive,Gujarat,120000,50,85,10
+Corsair 128GB DDR5,RAM,Memory Intensive,Telangana,120000,50,85,10
+Corsair 128GB DDR5,RAM,Memory Intensive,Andhra Pradesh,120000,50,85,10
+Corsair 128GB DDR5,RAM,Memory Intensive,Madhya Pradesh,120000,50,85,10
+Corsair 128GB DDR5,RAM,Memory Intensive,Tamil Nadu,120000,50,80,10
+Corsair 128GB DDR5,RAM,Memory Intensive,Karnataka,120000,50,80,10
+Corsair 128GB DDR5,RAM,Memory Intensive,Maharashtra,120000,50,80,10
+Corsair 128GB DDR5,RAM,Memory Intensive,Himachal Pradesh,120000,50,82,10
+Corsair 128GB DDR5,RAM,Memory Intensive,Uttarakhand,120000,50,82,10
+Corsair 128GB DDR5,RAM,Memory Intensive,Sikkim,120000,50,82,10
+Corsair 128GB DDR5,RAM,Memory Intensive,Arunachal Pradesh,120000,50,82,10
+Corsair 128GB DDR5,RAM,Memory Intensive,Kerala,120000,50,76,10
+Corsair 128GB DDR5,RAM,Memory Intensive,West Bengal,120000,50,76,10
+Corsair 128GB DDR5,RAM,Memory Intensive,Odisha,120000,50,76,10
+Corsair 128GB DDR5,RAM,Memory Intensive,Delhi,120000,50,68,10
+Corsair 128GB DDR5,RAM,Memory Intensive,Bihar,120000,50,68,10
+Corsair 128GB DDR5,RAM,Memory Intensive,Jharkhand,120000,50,68,10
+Corsair 128GB DDR5,RAM,Memory Intensive,Punjab,120000,50,68,10
+Corsair 128GB DDR5,RAM,Memory Intensive,Haryana,120000,50,68,10
+Corsair 128GB DDR5,RAM,Memory Intensive,Chhattisgarh,120000,50,68,10
+Corsair 128GB DDR5,RAM,Memory Intensive,Assam,120000,50,68,10
+Corsair 128GB DDR5,RAM,Memory Intensive,Nagaland,120000,50,68,10
+Corsair 128GB DDR5,RAM,Memory Intensive,Manipur,120000,50,68,10
+Corsair 128GB DDR5,RAM,Memory Intensive,Meghalaya,120000,50,68,10
+Corsair 128GB DDR5,RAM,Memory Intensive,Mizoram,120000,50,68,10
+Corsair 128GB DDR5,RAM,Memory Intensive,Tripura,120000,50,68,10
+Corsair 128GB DDR5,RAM,Memory Intensive,Goa,120000,50,68,10
